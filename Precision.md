@@ -2,7 +2,7 @@
 tags:
   - 🌱
 date: 18--Dec--2023
-modified: 06--Jan--2024
+modified: 25--Jan--2024
 ---
 # Precision
 > [!question] Proportion of documents [[Relevance|relevant]] to user information need ?
